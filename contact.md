@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-[link title](http://www.google.com)
+[awesome themes](https://github.com/planetjekyll/awesome-jekyll-themes)
 # contact page
+
 ## lol
