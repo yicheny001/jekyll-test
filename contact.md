@@ -7,3 +7,5 @@ permalink: /contact/
 # contact page
 
 ## lol
+
+😀 cmd+ctrl+space 
