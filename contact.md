@@ -6,3 +6,4 @@ permalink: /contact/
 [link title](http://www.google.com)
 # contact page
 ## lol
+😀 cmd+ctrl+space 
